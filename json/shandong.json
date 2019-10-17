@@ -3315,24 +3315,5 @@
                 ]
             ]
         }
-    },
-    {
-        "type": "Feature",
-        "properties":
-        {
-            "id": 371200,
-            "name": "莱芜市",
-            "cp": [117.1582, 36.8701],
-            "childNum": 1
-        },
-        "geometry":
-        {
-            "type": "Polygon",
-            "coordinates": [
-                [
-
-                ]
-            ]
-        }
     }]
 }
